@@ -12,3 +12,5 @@ Workflow
     - git push -u origin main
 3. create template.py file for creating project folder structure
     - python template.py
+4. update requirements.txt and setup.py
+    - pip install -r requirements.txt
