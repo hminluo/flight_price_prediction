@@ -1,0 +1,5 @@
+#!/Users/minluo/Documents/python_projects/flight_price_prediction/venv2/bin/python3.11
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
